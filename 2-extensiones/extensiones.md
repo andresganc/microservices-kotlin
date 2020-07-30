@@ -1,40 +1,48 @@
-
-## EXTENSIONES
-
-
+<br>
 
 ===========================================================================================
+# EXTENSIONES
+===========================================================================================
+
+<br>
 
 ## EXTENSIONES GENERALES
 
-### Spanish Language  ( Lenguaje de español ) 
+===========================================================================================
 
+### Spanish Language  ( Lenguaje de español ) 
     - Lengua en español para visual studio code
 
-### Pretier
 
+### Pretier
     - Organizar el codigo
 
 
 ### Todo Tree
-
     - Extencion para crear tareas pendientes por hacer 
 
-### Polacode
 
+### Polacode
     - Crear capturas o imagenes del codigo en png 
 
-### Rainbow Brakets
 
+### Rainbow Brakets
     - Parentesis en colores para diferenciar un encadenado largo
 
 ### Jest ( Testing )
 
-### Live Server ( Crear Servidor dentro de una carpeta )
 
+### Live Server ( Crear Servidor dentro de una carpeta )
     - Click derecho Live Server - Crear servidor
 
+
+### htmltagwrap
+    - Tags para encerrar con etiquetas facilmente
+
+
 =============================================================================================
+
+<br>
 
 ## ICONOS
 
@@ -42,19 +50,23 @@
 
 =============================================================================================
 
+<br>
 
 ## EXTENSIONES GIT
 
-### Git Graph
 
+### Git Graph
     - Grafico de ramificacion del repositorio
 
-### Git Lens
 
+### Git Lens
     - Muestra textos sombreados a lado del codigo con la fecha y el mensaje de commit que se hizo.
 
-### Git History
 
+### Git History
     - Muestra el historial del repositorio
 
+
 =============================================================================================
+
+TODO: Agregar extensiones de GraphQl
