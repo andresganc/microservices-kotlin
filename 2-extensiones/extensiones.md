@@ -14,7 +14,7 @@
     - Lengua en español para visual studio code
 
 
-### Pretier
+### Prettier - Code formatter
     - Organizar el codigo
 
 
