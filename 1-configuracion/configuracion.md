@@ -1,4 +1,6 @@
 
+
+
 # CONFIGURACION BASICA
     - Para ingresar a la zona de configuracion boton a la derecha abajo o (Crtl + ,)
 

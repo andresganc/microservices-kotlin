@@ -10,16 +10,19 @@
 
 ===========================================================================================
 
-### Spanish Language  ( Lenguaje de español ) 
+### Spanish Language  ( Lenguaje de español ) *
     - Lengua en español para visual studio code
 
 
-### Prettier - Code formatter
+### Prettier - Code formatter *
     - Organizar el codigo
 
 
-### Todo Tree
+### Todo Tree *
     - Extencion para crear tareas pendientes por hacer 
+
+### Live Server ( Crear Servidor dentro de una carpeta ) *
+    - Click derecho Live Server - Crear servidor
 
 
 ### Polacode
@@ -32,15 +35,11 @@
 ### Jest ( Testing )
 
 
-### Live Server ( Crear Servidor dentro de una carpeta )
-    - Click derecho Live Server - Crear servidor
-
-
 ### htmltagwrap
     - Tags para encerrar con etiquetas facilmente
 
 
-=============================================================================================
+
 
 <br>
 
@@ -69,4 +68,3 @@
 
 =============================================================================================
 
-TODO: Agregar extensiones de GraphQl
