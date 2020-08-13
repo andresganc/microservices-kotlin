@@ -68,3 +68,19 @@
 
 =============================================================================================
 
+<br>
+
+## EXTENSIONES GRAPHQL
+
+###  GraphQL
+    - Sintaxis GraphQL reconoce archivos .graphql - .gpl
+
+
+<br>
+
+
+## EXTENSIONES APOLLO GRAPHQL
+
+### Apollo GraphQL
+    - Sintaxis Apollo GraphQl
+
