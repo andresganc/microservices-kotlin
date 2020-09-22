@@ -25,12 +25,13 @@
     - Click derecho Live Server - Crear servidor
 
 
+### Rainbow Brakets *
+    - Parentesis en colores para diferenciar un encadenado largo
+
+
 ### Polacode
     - Crear capturas o imagenes del codigo en png 
 
-
-### Rainbow Brakets
-    - Parentesis en colores para diferenciar un encadenado largo
 
 ### Jest ( Testing )
 
@@ -39,7 +40,7 @@
     - Tags para encerrar con etiquetas facilmente
 
 
-
+==================================================================================================
 
 <br>
 
@@ -47,20 +48,19 @@
 
 ### vscode-icons
 
+### Material Icon Theme
+
 =============================================================================================
 
 <br>
 
 ## EXTENSIONES GIT
 
-
-### Git Graph
-    - Grafico de ramificacion del repositorio
-
-
 ### Git Lens
     - Muestra textos sombreados a lado del codigo con la fecha y el mensaje de commit que se hizo.
 
+### Git Graph
+    - Grafico de ramificacion del repositorio
 
 ### Git History
     - Muestra el historial del repositorio
