@@ -10,19 +10,24 @@
 
 ===========================================================================================
 
-### Spanish Language  ( Lenguaje de español ) *
+### Spanish Language  ( Lenguaje de español )   *
     - Lengua en español para visual studio code
 
 
-### Prettier - Code formatter *
+### Prettier - Code formatter   *
     - Organizar el codigo
 
 
-### Todo Tree *
+### Todo Tree   *
     - Extencion para crear tareas pendientes por hacer 
 
-### Live Server ( Crear Servidor dentro de una carpeta ) *
+
+### Live Server ( Crear Servidor dentro de una carpeta )    *
     - Click derecho Live Server - Crear servidor
+
+
+### css-in-js   *
+    - Autocompletados de css en .js
 
 
 ### Polacode
@@ -31,6 +36,7 @@
 
 ### Rainbow Brakets
     - Parentesis en colores para diferenciar un encadenado largo
+    
 
 ### Jest ( Testing )
 
