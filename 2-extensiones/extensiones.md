@@ -30,8 +30,12 @@
     - Parentesis en colores para diferenciar un encadenado largo
 
 
-### css-in-js
+### css-in-js   *
     - Autocompletado de Styles CSS en archivos .js
+
+
+### Color Highlight
+    - Mostrar colores (Uso en nc para mostrar colores hexadecimales en .js)
 
 
 ### Polacode
