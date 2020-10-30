@@ -34,6 +34,10 @@
     - Autocompletado de Styles CSS en archivos .js
 
 
+### vscode-pdf  *
+    - Visualizar archivos .pdf
+
+
 ### Color Highlight
     - Mostrar colores (Uso en nc para mostrar colores hexadecimales en .js)
 
