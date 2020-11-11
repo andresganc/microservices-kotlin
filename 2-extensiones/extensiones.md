@@ -38,8 +38,17 @@
     - Visualizar archivos .pdf
 
 
-### Color Highlight
+### Typescript * ( Dev Frontend )
+    - JavaScript and TypeScript IntelliSense.
+
+
+### Hero * ( Easy to compile ts, tsx, scss, less, jade, pug and es6+ on save without using a build task. )
+    - Compilador ts, tsx, scss, less, jade, pug y es6+ solo con activar el compilador y guardar 
+
+
+### Color Highlight *
     - Mostrar colores (Uso en nc para mostrar colores hexadecimales en .js)
+
 
 
 ### Polacode
@@ -51,6 +60,16 @@
 
 ### htmltagwrap
     - Tags para encerrar con etiquetas facilmente
+
+
+### ES7
+
+### Quokka.js
+
+### Sass
+
+### emmet
+
 
 
 ==================================================================================================
@@ -96,4 +115,7 @@
 
 ### Apollo GraphQL
     - Sintaxis Apollo GraphQl
+
+
+### DEno
 
