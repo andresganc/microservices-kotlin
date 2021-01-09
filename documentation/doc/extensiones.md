@@ -42,6 +42,10 @@
     - JavaScript and TypeScript IntelliSense.
 
 
+### MobileView *
+    - Visualizador en vista mobil
+
+
 ### Hero * ( Easy to compile ts, tsx, scss, less, jade, pug and es6+ on save without using a build task. )
     - Compilador ts, tsx, scss, less, jade, pug y es6+ solo con activar el compilador y guardar 
 
