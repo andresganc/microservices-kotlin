@@ -18,6 +18,9 @@
     - Organizar el codigo
 
 
+### TabNine - Autocompletado con AI
+    - TabNine es un autocompletado con AI de forma Free es su estado Basic y de Pago en Pro y por Team
+
 ### Todo Tree   *
     - Extencion para crear tareas pendientes por hacer 
 
