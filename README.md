@@ -1,5 +1,5 @@
 
-# [ <img src="manual/img/visual-studio-code.png" /> ](https://code.visualstudio.com/) 
+# [ <img src="img/visual-studio-code.png" /> ](https://code.visualstudio.com/) 
 
 <br>
 
