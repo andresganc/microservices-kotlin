@@ -14,12 +14,16 @@
     - Lengua en español para visual studio code
 
 
+### ES7     *
+    - Extension y abreviaciones para React
+
+
+### TabNine - Autocompletado con AI     *
+    - TabNine es un autocompletado con AI de forma Free es su estado Basic y de Pago en Pro y por Team
+
+
 ### Prettier - Code formatter   *
     - Organizar el codigo
-
-
-### TabNine - Autocompletado con AI
-    - TabNine es un autocompletado con AI de forma Free es su estado Basic y de Pago en Pro y por Team
 
 ### Todo Tree   *
     - Extencion para crear tareas pendientes por hacer 
@@ -68,8 +72,6 @@
 ### htmltagwrap
     - Tags para encerrar con etiquetas facilmente
 
-
-### ES7
 
 ### Quokka.js
 
