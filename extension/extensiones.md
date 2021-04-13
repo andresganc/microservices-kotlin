@@ -15,7 +15,15 @@
 
 
 ### ES7     *
-    - Extension y abreviaciones para React
+    - Extension de autocompletado y abreviaciones para React
+
+
+### JavaScript      *
+    - Extension de autocompletado y abreviaciones para JavaScript 
+
+
+### vscode-styled-components        *
+    -   Extension de autocompletado y abreviacion para Styled Component
 
 
 ### TabNine - Autocompletado con AI     *
@@ -57,9 +65,12 @@
     - Compilador ts, tsx, scss, less, jade, pug y es6+ solo con activar el compilador y guardar 
 
 
-### Color Highlight *
+### Color Highlight     *
     - Mostrar colores (Uso en nc para mostrar colores hexadecimales en .js)
 
+
+### Sass        *
+    - Extension de Autocompletado y abreviacion de el preprocesador SASS
 
 
 ### Polacode
@@ -75,7 +86,7 @@
 
 ### Quokka.js
 
-### Sass
+
 
 ### emmet
 
