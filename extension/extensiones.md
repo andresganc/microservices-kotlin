@@ -41,24 +41,16 @@
     - Click derecho Live Server - Crear servidor
 
 
-### Rainbow Brakets *
+### Bracket Pair Colorizer *
     - Parentesis en colores para diferenciar un encadenado largo
-
-
-### css-in-js   *
-    - Autocompletado de Styles CSS en archivos .js
 
 
 ### vscode-pdf  *
     - Visualizar archivos .pdf
 
 
-### Typescript * ( Dev Frontend )
-    - JavaScript and TypeScript IntelliSense.
-
-
 ### MobileView *
-    - Visualizador en vista mobil
+    - Visualizador en vista mobile
 
 
 ### Hero * ( Easy to compile ts, tsx, scss, less, jade, pug and es6+ on save without using a build task. )
@@ -71,6 +63,14 @@
 
 ### Sass        *
     - Extension de Autocompletado y abreviacion de el preprocesador SASS
+
+
+### Typescript ( Dev Frontend )
+    - JavaScript and TypeScript IntelliSense.
+
+
+### css-in-js
+    - Autocompletado de Styles CSS en archivos .js
 
 
 ### Polacode
@@ -137,5 +137,5 @@
     - Sintaxis Apollo GraphQl
 
 
-### DEno
+### Deno
 
