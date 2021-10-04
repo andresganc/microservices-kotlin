@@ -14,6 +14,17 @@
     - Lengua en español para visual studio code
 
 
+### Auto close Tag *
+    - Cierre automatico de etiquetas
+
+
+### Auto Import *
+    - Auto importar
+
+
+### Auto rename tag * 
+    - Auto renombrar tags
+
 ### ES7     *
     - Extension de autocompletado y abreviaciones para React
 
@@ -63,6 +74,14 @@
 
 ### Sass        *
     - Extension de Autocompletado y abreviacion de el preprocesador SASS
+
+
+### React native snippet *
+    - Snippets para react native
+
+
+### React native styled components snippets *
+    - Snippets react native styled components
 
 
 ### Typescript ( Dev Frontend )

@@ -3,10 +3,8 @@
 
 <br>
 
-
 #  VISUAL STUDIO CODE
     - Curso de Visual Studio Code - Por NC
-
 
 ## Instalcion
 
