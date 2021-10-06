@@ -25,6 +25,10 @@
 ### Auto rename tag * 
     - Auto renombrar tags
 
+
+### Path intellisense *
+    - Ayuda con los paths o rutas
+
 ### ES7     *
     - Extension de autocompletado y abreviaciones para React
 
