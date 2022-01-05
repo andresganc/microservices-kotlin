@@ -87,6 +87,10 @@
 ### React native styled components snippets *
     - Snippets react native styled components
 
+    
+### Database Client - Autor: cweijan *
+    - Database manager for MySQL/MariaDB, PostgreSQL, SQLite, Redis and ElasticSearch, FTP.
+
 
 ### Typescript ( Dev Frontend )
     - JavaScript and TypeScript IntelliSense.
