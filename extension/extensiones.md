@@ -37,6 +37,10 @@
     - Extension de autocompletado y abreviaciones para JavaScript 
 
 
+### Typescript ( Dev Frontend ) *
+    - JavaScript and TypeScript IntelliSense.
+
+
 ### vscode-styled-components        *
     -   Extension de autocompletado y abreviacion para Styled Component
 
@@ -87,13 +91,25 @@
 ### React native styled components snippets *
     - Snippets react native styled components
 
+
+### Deno *
+    RunTime DENO
+
     
 ### Database Client - Autor: cweijan *
     - Database manager for MySQL/MariaDB, PostgreSQL, SQLite, Redis and ElasticSearch, FTP.
 
 
-### Typescript ( Dev Frontend )
-    - JavaScript and TypeScript IntelliSense.
+### Docker *
+    - Containers Docker
+
+
+### NPM *
+    - Control Repositories
+
+
+### Jest ( Testing ) *
+    Test Jest
 
 
 ### css-in-js
@@ -104,7 +120,6 @@
     - Crear capturas o imagenes del codigo en png 
 
 
-### Jest ( Testing )
 
 
 ### htmltagwrap
@@ -149,7 +164,7 @@
 
 <br>
 
-## EXTENSIONES GRAPHQL
+## EXTENSIONES GRAPHQL *
 
 ###  GraphQL
     - Sintaxis GraphQL reconoce archivos .graphql - .gpl
@@ -160,9 +175,8 @@
 
 ## EXTENSIONES APOLLO GRAPHQL
 
-### Apollo GraphQL
+### Apollo GraphQL *
     - Sintaxis Apollo GraphQl
 
 
-### Deno
 
