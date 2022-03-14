@@ -104,9 +104,16 @@
     - Database manager for MySQL/MariaDB, PostgreSQL, SQLite, Redis and ElasticSearch, FTP.
 
 
-### Docker *
+### Docker - Microsoft * 
     - Containers Docker
 
+
+### Remote Container - Microsoft *
+    - Conectar Visual Studio Code con Containers (Docker)
+
+
+### Remote SSH - Microsoft *
+    - SSH incluido en Visual Studio Code
 
 ### NPM *
     - Control Repositories
