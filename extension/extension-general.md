@@ -4,10 +4,11 @@
 
 <br>
 
+
 ===========================================================================================
 
 ### Spanish Language  ( Lenguaje de español )   *
-    - Lengua en español para visual studio code
+    - Lenguaje en español para visual studio code
 
 
 ### Auto close Tag *
@@ -37,16 +38,13 @@
     - JavaScript and TypeScript IntelliSense.
 
 
-### vscode-styled-components        *
-    -   Extension de autocompletado y abreviacion para Styled Component
-
-
 ### TabNine - Autocompletado con AI     *
     - TabNine es un autocompletado con AI de forma Free es su estado Basic y de Pago en Pro y por Team
 
 
 ### Prettier - Code formatter   *
     - Organizar el codigo
+
 
 ### Todo Tree   *
     - Extencion para crear tareas pendientes por hacer 
@@ -68,49 +66,6 @@
     - Visualizador en vista mobile
 
 
-### Hero * ( Easy to compile ts, tsx, scss, less, jade, pug and es6+ on save without using a build task. )
-    - Compilador ts, tsx, scss, less, jade, pug y es6+ solo con activar el compilador y guardar 
-
-
-### Color Highlight     *
-    - Mostrar colores (Uso en nc para mostrar colores hexadecimales en .js)
-
-
-### Sass        *
-    - Extension de Autocompletado y abreviacion de el preprocesador SASS
-
-
-### React native snippet *
-    - Snippets para react native
-
-
-### React Native Tools
-    - React Native Tools - Microsoft
-
-
-### React native styled components snippets *
-    - Snippets react native styled components
-
-
-### Deno *
-    RunTime DENO
-
-    
-### Database Client - Autor: cweijan *
-    - Database manager for MySQL/MariaDB, PostgreSQL, SQLite, Redis and ElasticSearch, FTP.
-
-
-### Docker - Microsoft * 
-    - Containers Docker
-
-
-### Remote Container - Microsoft *
-    - Conectar Visual Studio Code con Containers (Docker)
-
-
-### Remote SSH - Microsoft *
-    - SSH incluido en Visual Studio Code
-
 ### NPM *
     - Control Repositories
 
@@ -119,25 +74,12 @@
     Test Jest
 
 
-### css-in-js
-    - Autocompletado de Styles CSS en archivos .js
-
-
 ### Polacode
     - Crear capturas o imagenes del codigo en png 
 
 
-
-
-### htmltagwrap
-    - Tags para encerrar con etiquetas facilmente
-
-
 ### Quokka.js
 
-
-
-### emmet
 
 
 <br>
@@ -163,41 +105,7 @@
 =============================================================================================
 
 
-## EXTENSIONES GRAPHQL *
-
-###  GraphQL
-    - Sintaxis GraphQL reconoce archivos .graphql - .gpl
-
-
-<br>
-
-=============================================================================================
-
-## EXTENSIONES APOLLO GRAPHQL
-
-### Apollo GraphQL *
-    - Sintaxis Apollo GraphQl
-
-<br>
-
-
-===========================================================================================
 
 
 
-## EXTENSIONES LANGUAGES LOW LEVEL
 
-
-### x86 and x86_64 Assembly
-    - Cutting edge x86 and x86_64 assembly syntax highlighting
-
-### PlatformIO IDE
-    - Professional development environment for Embedded, IoT, Arduino, CMSIS, ESP-IDF, FreeRTOS, libOpenCM3, mbed OS, Pulp OS, SPL, STM32Cube, Zephy
-
-### C/C++ (Microsoft)  *
-    - Extension pack C/C++
-
-
-<br>
-
-===========================================================================================
