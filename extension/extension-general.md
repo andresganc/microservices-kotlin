@@ -69,9 +69,32 @@
 ### NPM *
     - Control Repositories
 
+### Live Share (Microsoft)  *
+    - Real-time collaborative development from the comfort of your favorite tools.
 
-### Jest ( Testing ) *
-    Test Jest
+
+### Live Share Audio (Microsoft)    *
+    - Adds audio calling capabilities to Visual Studio Live Share
+
+
+### Live Share Extension Pack (Microsoft)   *
+    - Collection of extensions that enable real-time collaborative development with VS Live Share.
+
+
+### Jest ( Testing )    *
+    - Test Jest
+
+### Error Lens      *
+    - Improve highlighting of errors, warnings and other language diagnostics.ç
+
+
+### Code Runner     *
+    - Run C, C++, Java, JS, PHP, Python, Perl, Ruby, Go, Lua, Groovy, PowerShell, CMD, BASH, F#, C#, VBScript, TypeScript, CoffeeScript, Scala, Swift, Julia, Crystal, OCa
+
+
+### Import Cost
+    - Display import/require package size in the editor
+
 
 
 ### Polacode
@@ -79,6 +102,12 @@
 
 
 ### Quokka.js
+
+
+### WakaTime
+    - Metrics, insights, and time tracking automatically generated from your programming activity.
+
+
 
 
 
