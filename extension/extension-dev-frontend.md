@@ -1,12 +1,19 @@
 
-# EXTENSION DEV BACKEND
+# EXTENSION DEV FRONTEND
+
+### Mithril Emmet   *
+    - Support Emmet(zen-coding) syntax for Mithril
 
 
-### Sass        *
+### Lit Snippets    *
+    - Lit Snippets for VS Code
+
+
+### Sass    *
     - Extension de Autocompletado y abreviacion de el preprocesador SASS
 
 
-### vscode-styled-components        *
+### vscode-styled-components    *
     -   Extension de autocompletado y abreviacion para Styled Component
 
 
@@ -18,19 +25,8 @@
     - Snippets para react native
 
 
-### React Native Tools
+### React Native Tools  *
     - React Native Tools - Microsoft
-
-
-### css-in-js
-    - Autocompletado de Styles CSS en archivos .js
-
-
-### htmltagwrap
-    - Tags para encerrar con etiquetas facilmente
-
-
-### emmet
 
 
 ### Color Highlight     *
