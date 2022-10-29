@@ -7,8 +7,8 @@
 
 ## ICONOS
 
-### vscode-icons
-
 ### Material Icon Theme
+
+### vscode-icons
 
 <br>
