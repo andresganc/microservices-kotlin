@@ -4,7 +4,6 @@
 
 <br>
 
-
 ===========================================================================================
 
 ### Spanish Language  ( Lenguaje de español )   *
@@ -96,7 +95,6 @@
     - Display import/require package size in the editor
 
 
-
 ### Polacode
     - Crear capturas o imagenes del codigo en png 
 
@@ -109,10 +107,7 @@
 
 
 
-
-
 <br>
-
 
 
 =============================================================================================
@@ -132,6 +127,16 @@
 
 
 =============================================================================================
+
+## LINTER
+
+### ESLint (Microsoft)
+    - Integrates ESLint JavaScript into VS Code.
+
+### StandardJS - JavaScript Standard Style
+    - Visual Studio Code extension for JavaScript Standard Style with automatic fixing
+
+
 
 
 
