@@ -1,6 +1,12 @@
 
 # EXTENSION DEV FRONTEND
 
+### Lit Snippets    *
+    - Lit Snippets
+
+### Lit Plugin      *
+    - Syntax highlighting, type checking and code completion for lit-html
+
 ### Mithril Emmet   *
     - Support Emmet(zen-coding) syntax for Mithril
 

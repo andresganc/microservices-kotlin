@@ -2,27 +2,27 @@
 # EXTENSIONES DEV BACKEND
 
 
-### Deno *
+### Deno    *
     RunTime DENO
 
-    
-### Database Client - Autor: cweijan *
+
+### Database Client - Autor: cweijan    *
     - Database manager for MySQL/MariaDB, PostgreSQL, SQLite, Redis and ElasticSearch, FTP.
 
 
-### Docker - Microsoft * 
+### Docker - Microsoft  * 
     - Containers Docker
 
 
-### Remote Container - Microsoft *
+### Remote Container - Microsoft    *
     - Conectar Visual Studio Code con Containers (Docker)
 
 
-### Remote SSH - Microsoft *
+### Remote SSH - Microsoft  *
     - SSH incluido en Visual Studio Code
     
 
-### Vscode NestJs Snippets
+### Vscode NestJs Snippets  *
     - Code snippets for nestjs
 
 ### NestJS Files
@@ -53,3 +53,13 @@
 
 
 ===========================================================================================
+
+
+## API
+
+### RapidAPI Client
+    - 
+
+
+### Thunder Client
+    - Lightweight Rest API Client for VS Code

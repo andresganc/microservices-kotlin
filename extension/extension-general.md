@@ -80,9 +80,6 @@
     - Collection of extensions that enable real-time collaborative development with VS Live Share.
 
 
-### Jest ( Testing )    *
-    - Test Jest
-
 ### Error Lens      *
     - Improve highlighting of errors, warnings and other language diagnostics.ç
 
@@ -93,10 +90,6 @@
 
 ### Import Cost
     - Display import/require package size in the editor
-
-
-### Polacode
-    - Crear capturas o imagenes del codigo en png 
 
 
 ### Quokka.js
@@ -130,11 +123,17 @@
 
 ## LINTER
 
-### ESLint (Microsoft)
+### ESLint (Microsoft)      *
     - Integrates ESLint JavaScript into VS Code.
+
+
+### Error Lens
+    - Improve highlighting of errors, warnings and other language diagnostics.
 
 ### StandardJS - JavaScript Standard Style
     - Visual Studio Code extension for JavaScript Standard Style with automatic fixing
+
+
 
 
 
