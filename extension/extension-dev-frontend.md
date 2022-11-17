@@ -1,11 +1,6 @@
 
 # EXTENSION DEV FRONTEND
 
-### Lit Snippets    *
-    - Lit Snippets
-
-### Lit Plugin      *
-    - Syntax highlighting, type checking and code completion for lit-html
 
 ### Mithril Emmet   *
     - Support Emmet(zen-coding) syntax for Mithril
@@ -15,20 +10,16 @@
     - Lit Snippets for VS Code
 
 
-### Sass    *
-    - Extension de Autocompletado y abreviacion de el preprocesador SASS
+### Lit Plugin      *
+    - Syntax highlighting, type checking and code completion for lit-html
+
+
+### ES7+ React/Redux/React-Native snippets
+    - Extensions for React, React-Native and Redux in JS/TS with ES7+ syntax. Customizable. Built-in integration with prettier.
 
 
 ### vscode-styled-components    *
     -   Extension de autocompletado y abreviacion para Styled Component
-
-
-### React native styled components snippets *
-    - Snippets react native styled components
-
-
-### React native snippet *
-    - Snippets para react native
 
 
 ### React Native Tools  *
@@ -39,7 +30,19 @@
     - Mostrar colores (Uso en nc para mostrar colores hexadecimales en .js)
 
 
-### Hero * ( Easy to compile ts, tsx, scss, less, jade, pug and es6+ on save without using a build task. )
+### React native snippet
+    - Snippets para react native
+
+
+### React native styled components snippets 
+    - Snippets react native styled components
+
+
+### Sass    
+    - Extension de Autocompletado y abreviacion de el preprocesador SASS
+
+
+### Hero ( Easy to compile ts, tsx, scss, less, jade, pug and es6+ on save without using a build task. )
     - Compilador ts, tsx, scss, less, jade, pug y es6+ solo con activar el compilador y guardar 
 
 

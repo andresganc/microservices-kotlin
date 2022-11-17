@@ -6,16 +6,12 @@
 
 ===========================================================================================
 
-### Spanish Language  ( Lenguaje de español )   *
+### Spanish Language  ( Lenguaje de español )   
     - Lenguaje en español para visual studio code
 
 
-### Auto close Tag *
-    - Cierre automatico de etiquetas
-
-
-### Auto Import *
-    - Auto importar
+### JavaScript (ES6) code snippets
+    - Code snippets for JavaScript in ES6 syntax
 
 
 ### Auto rename tag * 
@@ -27,10 +23,6 @@
 
 ### ES7     *
     - Extension de autocompletado y abreviaciones para React
-
-
-### JavaScript      *
-    - Extension de autocompletado y abreviaciones para JavaScript 
 
 
 ### Typescript ( Dev Frontend ) *
@@ -49,24 +41,17 @@
     - Extencion para crear tareas pendientes por hacer 
 
 
+### TODO Highlight  *
+    - highlight TODOs, FIXMEs, and any keywords, annotations...
+
+
 ### Live Server ( Crear Servidor dentro de una carpeta )    *
     - Click derecho Live Server - Crear servidor
 
 
-### Bracket Pair Colorizer *
-    - Parentesis en colores para diferenciar un encadenado largo
+### Live Share Extension Pack (Microsoft)   *
+    - Collection of extensions that enable real-time collaborative development with VS Live Share.
 
-
-### vscode-pdf  *
-    - Visualizar archivos .pdf
-
-
-### MobileView *
-    - Visualizador en vista mobile
-
-
-### NPM *
-    - Control Repositories
 
 ### Live Share (Microsoft)  *
     - Real-time collaborative development from the comfort of your favorite tools.
@@ -76,8 +61,8 @@
     - Adds audio calling capabilities to Visual Studio Live Share
 
 
-### Live Share Extension Pack (Microsoft)   *
-    - Collection of extensions that enable real-time collaborative development with VS Live Share.
+### vscode-pdf (tomoki1207) *
+    - Visualizar archivos .pdf
 
 
 ### Error Lens      *
@@ -86,6 +71,22 @@
 
 ### Code Runner     *
     - Run C, C++, Java, JS, PHP, Python, Perl, Ruby, Go, Lua, Groovy, PowerShell, CMD, BASH, F#, C#, VBScript, TypeScript, CoffeeScript, Scala, Swift, Julia, Crystal, OCa
+
+
+### JavaScript      
+    - Extension de autocompletado y abreviaciones para JavaScript 
+
+
+### MobileView 
+    - Visualizador en vista mobile
+
+
+### Auto close Tag 
+    - Cierre automatico de etiquetas
+
+
+### Auto Import 
+    - Auto importar
 
 
 ### Import Cost
@@ -107,11 +108,13 @@
 
 ## EXTENSIONES GIT
 
-### Git Lens
+
+### Git Graph   *
+    - Grafico de ramificacion del repositorio
+
+### Git Lens    *
     - Muestra textos sombreados a lado del codigo con la fecha y el mensaje de commit que se hizo.
 
-### Git Graph
-    - Grafico de ramificacion del repositorio
 
 ### Git History
     - Muestra el historial del repositorio
