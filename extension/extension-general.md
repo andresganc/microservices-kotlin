@@ -130,7 +130,7 @@
     - Integrates ESLint JavaScript into VS Code.
 
 
-### Error Lens
+### Error Lens  *
     - Improve highlighting of errors, warnings and other language diagnostics.
 
 ### StandardJS - JavaScript Standard Style
